@@ -1,0 +1,6 @@
+f:\zigzag\documents\visual studio 2015\Projects\EmployeeScheduler\EmployeeScheduler\bin\Debug\EmployeeScheduler.exe.config
+f:\zigzag\documents\visual studio 2015\Projects\EmployeeScheduler\EmployeeScheduler\bin\Debug\EmployeeScheduler.exe
+f:\zigzag\documents\visual studio 2015\Projects\EmployeeScheduler\EmployeeScheduler\bin\Debug\EmployeeScheduler.pdb
+f:\zigzag\documents\visual studio 2015\Projects\EmployeeScheduler\EmployeeScheduler\obj\Debug\EmployeeScheduler.csprojResolveAssemblyReference.cache
+f:\zigzag\documents\visual studio 2015\Projects\EmployeeScheduler\EmployeeScheduler\obj\Debug\EmployeeScheduler.exe
+f:\zigzag\documents\visual studio 2015\Projects\EmployeeScheduler\EmployeeScheduler\obj\Debug\EmployeeScheduler.pdb
