@@ -1,0 +1,5 @@
+F:\zigzag\Documents\EmployeeScheduler\EmployeeLib\bin\Debug\EmployeeLib.dll
+F:\zigzag\Documents\EmployeeScheduler\EmployeeLib\bin\Debug\EmployeeLib.pdb
+F:\zigzag\Documents\EmployeeScheduler\EmployeeLib\obj\Debug\EmployeeLib.csprojResolveAssemblyReference.cache
+F:\zigzag\Documents\EmployeeScheduler\EmployeeLib\obj\Debug\EmployeeLib.dll
+F:\zigzag\Documents\EmployeeScheduler\EmployeeLib\obj\Debug\EmployeeLib.pdb
