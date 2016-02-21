@@ -25,6 +25,11 @@ namespace EmployeeLib
             if (profession != null && Professions.Contains(profession)) return true;
             else return false;
         }
+        public bool hasExtraProfession(string profession)
+        {
+            if (profession != null && CurrentProfession!=profession && Professions.Contains(profession)) return true;
+            else return false;
+        }
         public bool hasProfession(List<String> professions)
         {
             foreach (String profession in professions)

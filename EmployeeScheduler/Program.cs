@@ -29,11 +29,10 @@ namespace MainProg
             e6.Professions.AddRange(new string[] { "doctor", "driver"});
             List<Employee> employees = new List<Employee>();
             employees.Add(e1);
-            employees.Add(e2);
-            employees.Add(e3);
-            employees.Add(e4);
-            employees.Add(e5);
-            employees.Add(e6);
+            while (true)
+            {
+
+            }
             string[] demandedProfArr = new string[] { "driver", "doctor"};
             List<String> demandedProfessionsList = new List<String>();
             demandedProfessionsList.AddRange(demandedProfArr);
