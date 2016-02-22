@@ -22,18 +22,18 @@ namespace EmployeeLib
         }
         public bool hasProfession(String profession)
         {
-            if (profession != null && Professions.Contains(profession)) return true;
+            if (profession != null && Professions.Contains(profession, StringComparer.OrdinalIgnoreCase)) return true;
             else return false;
         }
         public bool hasExtraProfession(string profession)
         {
-            if (profession != null && CurrentProfession!=profession && Professions.Contains(profession)) return true;
+            if (profession != null && CurrentProfession!=profession && Professions.Contains(profession, StringComparer.OrdinalIgnoreCase)) return true;
             else return false;
         }
         public bool hasProfession(List<String> professions)
         {
             foreach (String profession in professions)
-                if (profession != null && Professions.Contains(profession)) return true;
+                if (profession != null && Professions.Contains(profession, StringComparer.OrdinalIgnoreCase)) return true;
             return false;
         }
 
